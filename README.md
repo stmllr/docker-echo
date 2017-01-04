@@ -3,7 +3,7 @@
 ## Build Docker image
 
 ```
-docker build -t stmllr/echo:v1
+docker build -t stmllr/echo:v1 .
 ```
 
 ## Run docker container
